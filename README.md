@@ -294,7 +294,7 @@ http://localhost:8081/swagger-ui/index.html
 
 # 📸 Screenshots
 
-Add screenshots here.
+Screenshots here.
 
 Examples:
 
